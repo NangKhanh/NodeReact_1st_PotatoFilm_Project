@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "role": 1,
+        "email": "admin@gmail.com",
+        "fullName": "Admin",
+        "password": "123@123"
+    },
+    {
+        "id": 1,
+        "role": 0,
+        "email": "duc123@gmail.com",
+        "fullName": "Minh Duc",
+        "password": "duc123"
+    },
+    {
+        "id": 2,
+        "role": 0,
+        "email": "bach123@gmail.com",
+        "fullName": "Son Bach",
+        "password": "bachngu"
+    },
+    {
+        "id": 3,
+        "role": 0,
+        "email": "khanh123@gmail.com",
+        "fullName": "Nang Khanh",
+        "password": "khanh3112"
+    },
+    {
+        "id": 4,
+        "role": 0,
+        "email": "bach317.hy@gmail.com",
+        "fullName": "bach123",
+        "password": "bach2002"
+    }
+]

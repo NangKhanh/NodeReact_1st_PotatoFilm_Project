@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "category": "Hoạt Hình",
+        "year": 2018,
+        "title": "Vua Hải Tặc",
+        "detail": "Vua Hải Tặc kể về cuộc hành trình của Monkey D. Luffy - thuyền trưởng của băng hải tặc Mũ Rơm và các đồng đội của cậu. Luffy tìm kiếm vùng biển bí ẩn nơi cất giữ kho báu lớn nhất thế giới One Piece, với mục tiêu trở thành Tân Vua Hải Tặc...",
+        "url": "https://phukien24g7.com/wp-content/uploads/2021/01/Luffy-Only-copy-1-600x600.png",
+        "thumbnaiUrl" :"https://avatarfiles.alphacoders.com/127/thumb-12782.jpg",
+        "votes": [
+            {
+                "uid": 1,
+                "rate": 8,
+                "comment": "Phim hay quá"
+            },
+            {
+                "uid": 2,
+                "rate": 3,
+                "comment": "Phim lê thê, dài dòng"
+            },
+            {
+                "uid": 3,
+                "rate": 6,
+                "comment": "Cũng được"
+            }
+        ]
+    },{
+        "id": 2,
+        "category": "Hành động",
+        "year": 2008,
+        "title": "Breaking Bad",
+        "detail": "Phim kể về câu chuyện của Walter White (Bryan Cranston), một giáo viên hóa học phổ thông bất đắc chí, gần như thất nghiệp, đang phải vật lộn với căn bệnh ung thư phổi giai đoạn ba. Để đảm bảo tài chính cho gia đình mình trước khi chết, Walter quyết định chọn con đường phạm pháp, hợp tác với cậu học trò cũ Jesse Pinkman (Aaron Paul) để điều chế và phân phối ma túy đá kết tinh, đồng thời phải né tránh hàng loạt mối nguy giữa thế giới tội phạm ngầm...",
+        "url": "https://bloximages.newyork1.vip.townnews.com/redandblack.com/content/tncms/assets/v3/editorial/2/02/20255746-f17a-11e1-b1f1-001a4bcf6878/503d726685c2e.image.jpg",
+        "thumbnaiUrl" :"https://m.media-amazon.com/images/M/MV5BMjAwMTE3MTUyNV5BMl5BanBnXkFtZTcwNDM1MDUwOA@@._V1_SX150_CR0,0,150,150_.jpg",
+        "votes": [
+            {
+                "uid": 1,
+                "rate": 8,
+                "comment": "Phim hay quá, Rất xúc động"
+            },
+            {
+                "uid": 2,
+                "rate": 7,
+                "comment": "Phim đã chạm được vào trái tim của tôi"
+            },
+            {
+                "uid": 3,
+                "rate": 6,
+                "comment": "Cũng được"
+            }
+        ]
+    },{
+        "id": 3,
+        "category": "Khoa Học",
+        "year": 2019,
+        "title": "Interstellar",
+        "detail": "Bộ phim kể về một nhóm nhà du hành vũ trụ đi xuyên qua hố đen. Nolan đã phát triển kịch bản phim dựa trên những ý tưởng mới của mình hòa trộn với kịch bản trước đó do người em trai Jonathan Nolan viết năm 2007 cho Paramount Pictures và nhà sản xuất Lynda Obst. Bộ phim được sản xuất bởi Nolan, Emma Thomas và Lynda Obst...",
+        "url": "https://images.theabcdn.com/i/16057114/600x600/c",
+        "thumbnaiUrl" :"https://tainhacmienphi.biz/icon_album/2022/01/04/download-nhac-interstellar-original-motion-picture-soundtrack-expanded-edition-hot.png",
+        "votes": [
+            {
+                "uid": 1,
+                "rate": 8,
+                "comment": "Phim hay quáaaaaaa"
+            },
+            {
+                "uid": 2,
+                "rate": 10,
+                "comment": "hmmm"
+            },
+            {
+                "uid": 3,
+                "rate": 9.5,
+                "comment": "rất căng thẳng"
+            }
+        ]
+    }
+]
